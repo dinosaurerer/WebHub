@@ -14,6 +14,28 @@ WebHub汇总了我开发和部署的各类网站与服务，涵盖个人博客�
 
 ---
 
+
+## 📧 2. 临时邮箱服务
+
+链接：https://mail.094694.xyz/  
+**GitHub 仓库**：[Mail 仓库链接](https://github.com/dinosaurerer/Dino-mail)  
+一个萌系风格的临时邮箱服务，帮你快速生成一次性邮箱地址，有效隔离垃圾邮件🎀  
+
+_Features_  
+
+✨ 即开即用的临时邮箱地址  
+⚡️ Cloudflare 边缘网络加速  
+🐰 治愈系UI动画与主题配色  
+📨 支持邮件内容实时渲染  
+
+<img src="./images/mail.png" alt="邮箱服务截图" style="border-radius:10px; max-width:100%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">  
+<img src="./images/mail2.png" alt="邮箱服务截图" style="border-radius:10px; max-width:100%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"> 
+
+（注：实际展示时可替换为真实界面截图）
+
+
+---
+
 ## ☁️ 2. 个人云盘
 **链接**：[https://cloud.072416.xyz](https://cloud.072416.xyz)  
 **GitHub 仓库**：[Cloud 仓库链接](https://github.com/dinosaurerer/Dino-cloud)  
